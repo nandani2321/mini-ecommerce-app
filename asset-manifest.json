@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mini-eommerce-app/static/css/main.5c73040b.css",
-    "main.js": "/mini-eommerce-app/static/js/main.053aa7b6.js",
-    "index.html": "/mini-eommerce-app/index.html",
-    "main.5c73040b.css.map": "/mini-eommerce-app/static/css/main.5c73040b.css.map",
-    "main.053aa7b6.js.map": "/mini-eommerce-app/static/js/main.053aa7b6.js.map"
+    "main.css": "/mini-ecommerce-app/static/css/main.5c73040b.css",
+    "main.js": "/mini-ecommerce-app/static/js/main.053aa7b6.js",
+    "index.html": "/mini-ecommerce-app/index.html",
+    "main.5c73040b.css.map": "/mini-ecommerce-app/static/css/main.5c73040b.css.map",
+    "main.053aa7b6.js.map": "/mini-ecommerce-app/static/js/main.053aa7b6.js.map"
   },
   "entrypoints": [
     "static/css/main.5c73040b.css",
